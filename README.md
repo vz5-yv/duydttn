@@ -1,16 +1,13 @@
-## Hi there 👋
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duydttn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<!--START_SECTION:waka-->
 
-<!--
-**duydttn/duydttn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```all_time
+From: 21 March 2025 - To: 28 March 2025
 
-Here are some ideas to get you started:
+Total Time: 2 hrs 41 mins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript   1 hr 3 mins     >>>>>>>>>>---------------   39.60 %
+Other        32 mins         >>>>>--------------------   20.14 %
+```
+
+<!--END_SECTION:waka-->
